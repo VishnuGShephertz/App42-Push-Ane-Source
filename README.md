@@ -1,6 +1,8 @@
 App42-Push-Ane-Source
 =====================
-        This Project contains ANE(Android native Extension) source code require to build Air applications that used App42 PushNotification.
+ # About Application
+
+1. This application shows how can build ANE(Android Native Extension) for our Flash Air App using App42 PushNotification.
         
 1. You can find complete Flash Android Push Notification sample [here] (https://github.com/VishnuGShephertz/App42-Push-Notification-on-Flash-Android/archive/master.zip) and import it in your FlashBuiler.
 
